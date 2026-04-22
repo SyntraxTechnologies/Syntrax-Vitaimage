@@ -1,1 +1,1 @@
-# Syntrax-Vitaimage
+# Syntrax-VitaImage
